@@ -18,11 +18,11 @@ This Gen AI-based Data Profiling solution automates and enhances the process of 
 Unlike traditional methods, Gen AI continuously learns from data and regulatory changes, improving its accuracy and efficiency over time. This helps reduce human error, streamline compliance processes, and adapt to evolving regulations in real-time.
 
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
-🖼️ Screenshots:
+📹 [Video Demo](https://github.com/ewfx/gaidp-data-synths/blob/main/artifacts/demo/demo_video.mp4)
 
-![Screenshot 1](link-to-image)
+🖼️ Screenshots:
+![Screenshot 1]((https://github.com/ewfx/gaidp-data-synths/blob/main/artifacts/demo/Screenshot%202025-03-26%20132503.png))
+![Screenshot 2]((https://github.com/ewfx/gaidp-data-synths/blob/main/artifacts/demo/Screenshot%202025-03-26%20132743.png))
 
 ## ⚙️ What It Does
 The project reads a pdf file containing regulatory instructions, parses the pdf to json, send this json to gemini api for data profiling.
