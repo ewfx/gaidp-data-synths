@@ -49,8 +49,8 @@ The unavaliability of a larger dataset for validation of the rules was the major
    pip install pandas                                                                                                              
    ```
 3. Run the project
-   Before running the project replace the src/app/js file with the given app.js file
    ```sh
+   #Before running the project replace the src/app/js file with the given app.js file
    Frontend:
    cd data_profiler
    npm start  
