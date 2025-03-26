@@ -42,15 +42,17 @@ The unavaliability of a larger dataset for validation of the rules was the major
    ```
 2. Install dependencies  
    ```sh
-   npm install axios  
+   npm install axios
+   npx create-react-app@latest data_profiler
    pip install fastapi uvicorn google-generativeai python-multipart pdfplumber 
    pip install requests  
    pip install pandas                                                                                                              
    ```
-3. Run the project  
+3. Run the project
+   Before running the project replace the src/app/js file with the given app.js file
    ```sh
    Frontend:
-   cd pdf-uploader
+   cd data_profiler
    npm start  
    Backend:
    uvicorn main:app --reload
