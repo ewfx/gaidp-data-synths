@@ -1,0 +1,3 @@
+[submodule "code/src/genai-data-profiling/pdf-uploader"]
+	path = code/src/genai-data-profiling/pdf-uploader
+	url = git@github.com:ewfx/gaidp-data-synths.git
